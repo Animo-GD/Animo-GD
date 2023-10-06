@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moaaz Soliman</h1>
 <h3 align="center">A Computer Science & Machine Learning Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=animo-gd&label=Profile%20views&color=0e75b6&style=flat" alt="animo-gd" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently working on Data Science Projects<br>🌱 I’m currently learning AI<br>💬 Ask me about python<br>
