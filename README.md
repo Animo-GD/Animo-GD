@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Moaaz Soliman</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer" alt="Typing SVG" /></a>
+
 # 💫 About Me:
 🔭 I’m currently working on Data Science Projects<br>🌱 I’m currently learning AI<br>💬 Ask me about python<br>
 
