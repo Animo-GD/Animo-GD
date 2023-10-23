@@ -3,7 +3,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer"         alt="Typing SVG" /></a>
 </p> 
 
-# 💫 About Me:<br>
+<h3 align="left">💫 About Me:</h3>
 - 🔭 I’m currently working on **Data Analysis & Data Science Projects**
 
 - 🌱 I’m currently learning **AI**
