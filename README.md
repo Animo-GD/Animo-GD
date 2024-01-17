@@ -4,7 +4,8 @@
 </p> 
 
 <h3 align="left">💫 About Me:</h3>
-- 🔭 I’m currently working on **Data Analysis & Data Science Projects**
+
+- 🔭 I’m currently working on **Computer Vision Projects**
 
 - 🌱 I’m currently learning **AI**
 
